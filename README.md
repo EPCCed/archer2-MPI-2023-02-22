@@ -2,7 +2,7 @@
 
 <br /><br /><br /><br /><br />
 
-# ARCHER2 MPI course (March 2022)
+# ARCHER2 MPI course (February 2023)
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
@@ -34,9 +34,9 @@ programming examples and informal tutorial discussions. This enables
 lecture material to be supported by the tutored practical sessions in
 order to reinforce the key concepts.
 
-Intended Learning Outcomes
+<h3>Intended Learning Outcomes</h3>
 
- * On completion of this course students should be able to:
+On completion of this course students should be able to:
 
  * Understand the message-passing model in detail.
 
