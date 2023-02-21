@@ -94,7 +94,7 @@ for private study. </blockquote></p>
 <h4>Day 1</h4>
 
 <ul>
-<li><a href="https://github.com/EPCCed/archer2-MPI-2022-03-23/raw/master/slides/L00-ARCHER2-PTC-Intro.pdf">ARCHER2 and the training programme</a>
+<li><a href="https://github.com/EPCCed/archer2-MPI-2022-03-23/raw/master/slides/L00-ARCHER2-Intro.pdf">ARCHER2 and the training programme</a>
 <li><a href="https://github.com/EPCCed/archer2-MPI-2022-03-23/raw/master/slides/L00-overview_3day.pdf">Overview of MPI course</a>
 <li><a href="https://github.com/EPCCed/archer2-MPI-2022-03-23/raw/master/slides/L01-mpconcepts.pdf">Message-Passing Concepts</a>
 <li><a href="https://github.com/EPCCed/archer2-MPI-2022-03-23/raw/master/slides/E01-traffic.pdf">Parallel Traffic Modelling</a>
