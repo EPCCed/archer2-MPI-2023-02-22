@@ -182,11 +182,12 @@ Now install OpenMPI:
 
 <h4>Windows</h4>
 
-We recommend that Windows users access ARCHER2 using
+Rather than installing MPI locally, we recommend that Windows users
+access ARCHER2 using
 [MobaXterm](https://docs.archer2.ac.uk/user-guide/connecting/#windows).
 
-If you want local access to MPI, one solution is to install a Linux
-virtual machine (e.g. Ubuntu) and follow the Linux installation
+If you want to try local access to MPI, one solution is to install a
+Linux virtual machine (e.g. Ubuntu) and follow the Linux installation
 instructions above.
 
 I know that some users have been able to install MPI compilers and libraries natively on Windows using the [Intel® oneAPI HPC Toolkit](https://software.intel.com/content/www/us/en/develop/tools/oneapi/hpc-toolkit.html)
