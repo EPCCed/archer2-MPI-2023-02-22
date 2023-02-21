@@ -15,7 +15,7 @@
   <li>14:45 Practical: Pi</li>
   <li>15:30 Break</li>
   <li>16:15 Communicators, Tags and Modes</li>
-  <li>17:00 Practical: Pi</li>
+  <li>17:00 Practical: Pi / Ping-Pong</li>
   <li>17:30 Finish</li>
 </ul>
 
@@ -27,7 +27,7 @@
   <li>11:00 Practical: Message Round a Ring</li>
   <li>11:15 Break
   <li>11:45 Practical: Message Round a Ring</li>
-  <li>12:30 Collective Communicaton</li>
+  <li>12:30 Collective Communication</li>
   <li>13:00 Lunch</li>
   <li>14:00 Practical: Collective Communication</li>
   <li>14:30 Virtual Topologies</li>
@@ -45,7 +45,7 @@
   <li>10:45 Practical: Case Study</li>
   <li>11:15 Break</li>
   <li>11:45 Tricks and Tips</li>
-  <li>12:15 Practical: Case Study</li>
+  <li>12:30 Practical: Case Study</li>
   <li>13:00 Lunch</li>
   <li>14:00 Individual Consultancy Sessions / Finish Case Study</li>
   <li>15:00 Finish</li>
