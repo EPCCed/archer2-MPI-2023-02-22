@@ -57,12 +57,24 @@ MPI from Python.
 <h2>Message Passing Programming with MPI</h2>
 
 <p><strong>Dates: </strong>23rd, 24th and 30th March 2022
-<p><strong>Location: </strong>Online</p>
+<p><strong>Location: </strong>Imperial College, London</p>
+
+Imperial College,</br>
+Seminar and Learning Centre,</br>
+5th Floor,</br>
+Sherfield Building,</br>
+London (Kensington Campus),</br>
+SW7 2BB
+
+*  February 22, 2023 SALC 10
+*  February 23, 2023 SALC 1
+*  February 24, 2023 SALC 10
 
 <h3>Viewing Images on ARCHER2</h3>
 
 The instructions for viewing images, contained in the slides for the
-Case Study exercise on Day 3, will not work on ARCHER2 as the `display` program has different behaviour from before.
+Case Study exercise on Day 3, will no longer work on ARCHER2 as the
+`display` program has different behaviour from before.
 
 To view any of the PGM files (input edge data or output reconstructed
 images) you can use the `pgmdisplay` program:
